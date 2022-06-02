@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "find_younger.h"
-#include "starks.h"
+#include "../find_younger.h"
+#include "../starks.h"
 
 void selectionSort(Starks starks, int* p) {
     for (int i = 0; i < *p; i++) {
