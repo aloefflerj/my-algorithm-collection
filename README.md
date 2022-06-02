@@ -5,3 +5,4 @@
 
 - php
   - [Selection Sort](/php/sorting/selectionSort/)
+  - [Selection Sort](/php/sorting/insertionSort/)
