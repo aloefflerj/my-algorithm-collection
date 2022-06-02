@@ -4,4 +4,4 @@ php index.php
 ```
 _*Requires php 7.4 or greater_
 
-### About `Selection Sort`
+### About `Insertion Sort`
